@@ -1,3 +1,11 @@
+== 0.13.8 / 2023-03-02
+  * Bug fixes
+    * Use Timeout.timeout instead of Object#timeout (#1)
+
+== Forked / 2023-02-28
+
+This repository was forked from [mojombo/god](https://github.com/mojombo/god).
+
 == 0.13.7 / 2015-08-19
   * Bug fixes
     * Fixed slack integration (#217)
