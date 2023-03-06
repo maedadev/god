@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
 
   s.name = 'god'
   s.version = '0.13.7.1-bizside-patch'
-  s.date = '2023-03-03'
+  s.date = '2023-03-06'
 
   s.summary = "Process monitoring framework."
   s.description = "An easy to configure, easy to extend monitoring framework written in Ruby."

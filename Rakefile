@@ -150,7 +150,7 @@ end
 desc "Build #{gem_file} into the pkg directory"
 task :build => :gemspec do
   sh "mkdir -p pkg"
-  sh "gem build #{gemspec_file}"
+  sh "gem build #{gemspec_file} -o #{gem_file}"
   sh "mv #{gem_file} pkg"
 end
 
