@@ -1,4 +1,4 @@
-== 0.13.8 / 2023-03-02
+== 0.13.7.1-bizside-patch / 2023-03-02
   * Bug fixes
     * Use Timeout.timeout instead of Object#timeout (#1)
 
